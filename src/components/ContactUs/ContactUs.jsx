@@ -19,7 +19,7 @@ const ContactUs = () => {
           <nav aria-label="breadcrumb animated slideInDown">
             <ol className="breadcrumb mb-0">
               <li className="breadcrumb-item">
-                <Link href="#">Home</Link>
+                <Link to="/">Home</Link>
               </li>
 
               <li className="breadcrumb-item active" aria-current="page">

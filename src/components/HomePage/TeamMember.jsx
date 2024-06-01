@@ -7,15 +7,16 @@ const TeamMember = () => {
       {/* <!-- Team Start --> */}
       <div className="container-xxl py-5">
         <div className="container">
-          <div
-            className="text-center mx-auto"
-            // style="max-width: 500px;"
-            style={{ maxWidth: "500px" }}
-          >
-            <h1 className="display-6 mb-5">Meet Our Professional Team Members</h1>
+          <div className="text-center mx-auto" style={{ maxWidth: "500px" }}>
+            <h1 className="display-6 mb-5">
+              Meet Our Professional Team Members
+            </h1>
           </div>
           <div className="row g-4 d-flex justify-content-center">
-            <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div
+              className="col-lg-3 col-md-6 wow fadeInUp"
+              data-wow-delay="0.1s"
+            >
               <div className="team-item rounded">
                 <img className="img-fluid" src="img/team-1.jpg" alt="" />
                 <div className="text-center p-4">
@@ -37,7 +38,10 @@ const TeamMember = () => {
               </div>
             </div>
 
-            <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+            <div
+              className="col-lg-3 col-md-6 wow fadeInUp"
+              data-wow-delay="0.7s"
+            >
               <div className="team-item rounded">
                 <img className="img-fluid" src="img/team-4.jpg" alt="" />
                 <div className="text-center p-4">

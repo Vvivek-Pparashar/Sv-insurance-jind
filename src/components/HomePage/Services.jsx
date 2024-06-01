@@ -7,17 +7,16 @@ const Services = () => {
       {/* <!-- Service Start --> */}
       <div className="container-xxl py-5">
         <div className="container">
-          <div
-            className="text-center mx-auto"
-            // style="max-width: 500px;"
-            style={{ maxWidth: "500px" }}
-          >
+          <div className="text-center mx-auto" style={{ maxWidth: "500px" }}>
             <h1 className="display-6 mb-5">
               We Provide professional Insurance Services
             </h1>
           </div>
           <div className="row g-4 justify-content-center">
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.1s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">
@@ -38,7 +37,10 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">
@@ -59,7 +61,10 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.5s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">
@@ -80,7 +85,10 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.1s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">
@@ -101,7 +109,10 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.3s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">
@@ -123,7 +134,10 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-            <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div
+              className="col-lg-4 col-md-6 wow fadeInUp"
+              data-wow-delay="0.5s"
+            >
               <div className="service-item rounded h-100 p-5">
                 <div className="d-flex align-items-center ms-n5 mb-4">
                   <div className="service-icon flex-shrink-0 bg-primary rounded-end me-4">

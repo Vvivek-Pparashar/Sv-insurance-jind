@@ -60,10 +60,14 @@ const NavBar = ({ page }) => {
           className="navbar-toggler"
           data-bs-toggle="collapse"
           data-bs-target="#navbarCollapse"
+          onClick={() => setMobileNav(!mobileNav)}
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarCollapse">
+        <div
+          className={`collapse navbar-collapse ${mobileNav ? "show" : ""}`}
+          id="navbarCollapse"
+        >
           <div className="navbar-nav mx-auto bg-light rounded pe-4 py-3 py-lg-0">
             <Link
               to="/"

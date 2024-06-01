@@ -92,7 +92,7 @@ const Footer = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; <Link to="#">S&V INSURANCE JIND</Link>, All Right
+                &copy; <Link to="/">S&V INSURANCE JIND</Link>, All Right
                 Reserved.
               </div>
             </div>

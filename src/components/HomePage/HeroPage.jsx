@@ -45,9 +45,9 @@ const HeroPage = () => {
                           आपका वाहन और ऑनलाइन सेवा समाधान, लाना प्रामाणिकता के
                           साथ उत्कृष्टता.
                         </p>
-                        <Link to="#2" className="btn btn-primary py-3 px-5">
+                        <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started
-                        </Link>
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -66,9 +66,9 @@ const HeroPage = () => {
                         <p className="fs-5 text-body mb-5">
                           Safeguarding futures, building wealth for all.
                         </p>
-                        <Link to="#2" className="btn btn-primary py-3 px-5">
+                        <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started
-                        </Link>
+                        </a>
                       </div>
                     </div>
                   </div>

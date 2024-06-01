@@ -18,7 +18,7 @@ const AboutUs = () => {
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol className="breadcrumb mb-0">
                     <li className="breadcrumb-item"><Link to="/">Home</Link></li>
-                    {/* <li className="breadcrumb-item"><a href="#">Pages</a></li> */}
+                    
                     <li className="breadcrumb-item active" aria-current="page">About</li>
                 </ol>
             </nav>

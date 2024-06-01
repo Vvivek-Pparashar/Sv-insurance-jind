@@ -7,11 +7,7 @@ const Testimonial = () => {
       {/* <!-- Testimonial Start --> */}
       <div className="container-xxl py-5">
         <div className="container">
-          <div
-            className="text-center mx-auto"
-            // style="max-width: 500px;"
-            style={{ maxWidth: "500px" }}
-          >
+          <div className="text-center mx-auto" style={{ maxWidth: "500px" }}>
             <h1 className="display-6 mb-5">
               What They Say About Our Insurance
             </h1>
@@ -37,7 +33,6 @@ const Testimonial = () => {
               </div>
             </div>
             <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-              {/* <div className="owl-carousel testimonial-carousel"> */}
               <OwlCarousel
                 nav={true}
                 items={1}
@@ -75,7 +70,7 @@ const Testimonial = () => {
                     "Choosing S&V Insurance was one of the best decisions I've
                     made for my family's financial security. "
                   </p>
-                  {/* </p> */}
+
                   <h5>Uday Bhandari</h5>
                 </div>
                 <div className="testimonial-item text-center">
@@ -104,7 +99,6 @@ const Testimonial = () => {
                   </p>
                   <h5>Nilesh</h5>
                 </div>
-                {/* </div> */}
               </OwlCarousel>
             </div>
             <div className="col-lg-3 d-none d-lg-block">
@@ -130,7 +124,6 @@ const Testimonial = () => {
         </div>
       </div>
       {/* <!-- Testimonial End --> */}
-      {/* </div> */}
     </div>
   );
 };
