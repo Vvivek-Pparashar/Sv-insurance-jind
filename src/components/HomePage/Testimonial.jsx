@@ -18,17 +18,17 @@ const Testimonial = () => {
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p1.jpg"
-                  alt=""
+                  alt="Vechile Insurance Testimonial"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p2.jpg"
-                  alt=""
+                  alt="Health Insurance Testimonial"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p3.jpg"
-                  alt=""
+                  alt="Life Insurance Testimonial"
                 />
               </div>
             </div>
@@ -51,7 +51,7 @@ const Testimonial = () => {
                   <img
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p5.jpg"
-                    alt=""
+                    alt="Car Insurance Testimonial"
                   />
                   <p className="fs-5">
                     "मैं वर्षों से S&V इंश्योरेंस का एक वफादार ग्राहक रहा हूं,
@@ -64,7 +64,7 @@ const Testimonial = () => {
                   <img
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p2.jpg"
-                    alt=""
+                    alt="Business Insurance Testimonial"
                   />
                   <p className="fs-5">
                     "Choosing S&V Insurance was one of the best decisions I've
@@ -77,7 +77,7 @@ const Testimonial = () => {
                   <img
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p1.jpg"
-                    alt=""
+                    alt="Insurance Testimonial"
                   />
                   <p className="fs-5">
                     "S&V इंश्योरेंस ने अपने व्यक्तिगत दृष्टिकोण के साथ मेरी
@@ -90,7 +90,7 @@ const Testimonial = () => {
                   <img
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p3.jpg"
-                    alt=""
+                    alt="Insurance Testimonial"
                   />
                   <p className="fs-5">
                     "I've been a loyal customer of S&V Insurance for years, and
@@ -106,17 +106,17 @@ const Testimonial = () => {
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p6.jpg"
-                  alt=""
+                  alt="Property Insurance Testimonial"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p5.jpg"
-                  alt=""
+                  alt="Car Insurance Testimonial"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p4.jpg"
-                  alt=""
+                  alt="MotorCycle Insurance Testimonial"
                 />
               </div>
             </div>

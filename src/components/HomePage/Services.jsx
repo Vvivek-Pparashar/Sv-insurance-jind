@@ -23,7 +23,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-10-light.png"
-                      alt=""
+                      alt="Vehicle Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Vehicle Insurance</h4>
@@ -47,7 +47,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-01-light.png"
-                      alt=""
+                      alt="Health Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Health Insurance</h4>
@@ -71,7 +71,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-05-light.png"
-                      alt=""
+                      alt="Home Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Home Insurance</h4>
@@ -95,7 +95,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-08-light.png"
-                      alt=""
+                      alt="Life Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Life Insurance</h4>
@@ -119,7 +119,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-07-light.png"
-                      alt=""
+                      alt="Business Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Business Insurance</h4>
@@ -144,7 +144,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-06-light.png"
-                      alt=""
+                      alt="Property Insurance Logo"
                     />
                   </div>
                   <h4 className="mb-0">Property Insurance</h4>

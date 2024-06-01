@@ -16,7 +16,7 @@ const Footer = () => {
                 <img
                   className="img-fluid me-3"
                   src="img/icon/icon-02-light.png"
-                  alt=""
+                  alt="Sv Insurance Jind Logo"
                 />
                 S&V
               </h1>

@@ -16,7 +16,7 @@ const About = () => {
                 <img
                   className="position-absolute w-100 h-100"
                   src="img/about.jpg"
-                  alt=""
+                  alt="Sv Insurance Manager Image"
                   style={{ objectFit: "cover" }}
                 />
                 <div
@@ -46,7 +46,7 @@ const About = () => {
                       <img
                         className="flex-shrink-0 me-3"
                         src="img/icon/icon-04-primary.png"
-                        alt=""
+                        alt="Flexible Insurance Plans"
                         loading="lazy"
                       />
                       <h5 className="mb-0">Flexible Insurance Plans</h5>
@@ -57,7 +57,7 @@ const About = () => {
                       <img
                         className="flex-shrink-0 me-3"
                         src="img/icon/icon-03-primary.png"
-                        alt=""
+                        alt="Authentic Poilcy Agencies"
                       />
                       <h5 className="mb-0">Authentic Poilcy Agencies</h5>
                     </div>
@@ -72,7 +72,7 @@ const About = () => {
                     <img
                       className="flex-shrink-0 rounded-circle me-3"
                       src="img/profile.jpg"
-                      alt=""
+                      alt="Sv Insurance Manager Image"
                     />
                     <Link to="tel: 7404609190" className="text-white mb-0">
                       Call Us: +91 7404609190
