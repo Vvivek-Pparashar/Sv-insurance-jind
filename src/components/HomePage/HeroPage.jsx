@@ -33,27 +33,6 @@ const HeroPage = () => {
               classNameName="owl-carousel testimonial-carousel bg-white p-5"
             >
               <div className="carousel-item active">
-                <img className="w-100" src="img/c1.jpg" alt="Car Insurance" />
-                <div className="carousel-caption">
-                  <div className="container">
-                    <div className="row">
-                      <div className="col-12 col-lg-6">
-                        <h1 className="display-3 text-dark mb-4 animated slideInDown">
-                          Protect What Matters Most with S&V Insurance
-                        </h1>
-                        <p className="fs-5 text-body mb-5">
-                          Safeguarding futures, building wealth for all.
-                        </p>
-                        <a href="#2" className="btn btn-primary py-3 px-5">
-                          Get Started
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="carousel-item active">
                 <img className="w-100" src="img/c3.jpg" alt="Life Insurance" />
                 <div className="carousel-caption">
                   <div className="container">
@@ -65,7 +44,27 @@ const HeroPage = () => {
                         </h1>
                         <p className="fs-5 text-body mb-5">
                           Protect your life, health, and vehicle with expert
-                          insurance services. 
+                          insurance services.
+                        </p>
+                        <a href="#2" className="btn btn-primary py-3 px-5">
+                          Get Started
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="carousel-item active">
+                <img className="w-100" src="img/c1.jpg" alt="Car Insurance" />
+                <div className="carousel-caption">
+                  <div className="container">
+                    <div className="row">
+                      <div className="col-12 col-lg-6">
+                        <h2 className="display-3 text-dark mb-4 animated slideInDown">
+                          Protect What Matters Most with S&V Insurance
+                        </h2>
+                        <p className="fs-5 text-body mb-5">
+                          Safeguarding futures, building wealth for all.
                         </p>
                         <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started
