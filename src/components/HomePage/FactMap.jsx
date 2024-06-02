@@ -63,6 +63,7 @@ const FactMap = () => {
                   allowfullscreen=""
                   loading="lazy"
                   referrerpolicy="no-referrer-when-downgrade"
+                  title="S&V Insurance Map Location"
                 ></iframe>
               </div>
             </div>

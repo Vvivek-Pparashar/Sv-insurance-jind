@@ -73,18 +73,23 @@ const Footer = () => {
               </Link>
             </div>
             <div className="col-lg-3 col-md-6">
-              <h5 className="text-light mb-4">Address</h5>
-              <p>
-                <i className="fa fa-map-marker-alt me-3"></i>Near Shani Dev
-                Mandir, Khem Nagar, Jind, Haryana 126102
-              </p>
-              <p>
-                <i className="fa fa-phone-alt me-3"></i>+91 7404609190
-              </p>
-              <p>
-                <i className="fa fa-envelope me-3"></i>
-                svwashingstationjind@gmail.com
-              </p>
+              <address>
+                <h5 className="text-light mb-4">Address</h5>
+                <p>
+                  <i className="fa fa-map-marker-alt me-3"></i>
+                  Near Shani Dev Mandir, Khem Nagar, Jind, Haryana 126102
+                </p>
+                <p>
+                  <i className="fa fa-phone-alt me-3"></i>
+                  <a href="tel: 7404609190" className="text-white-50">+91 7404609190</a>
+                </p>
+                <p>
+                  <i className="fa fa-envelope me-3"></i>
+                  <a href="mailto: svwashingstationjind@gmail.com" className="text-white-50">
+                    svwashingstationjind@gmail.com
+                  </a>
+                </p>
+              </address>
             </div>
           </div>
         </div>
