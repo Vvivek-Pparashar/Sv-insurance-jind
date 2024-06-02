@@ -22,7 +22,7 @@ const FactMap = () => {
                         <h5 className="display-5" data-toggle="counter-up">
                           13
                         </h5>
-                        <h2>+yrs</h2>
+                        <h5>+yrs</h5>
                       </div>
                       <p className="fs-5 text-primary">Experience</p>
                     </div>

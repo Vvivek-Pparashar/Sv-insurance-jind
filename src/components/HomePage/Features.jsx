@@ -8,9 +8,9 @@ const Features = () => {
         <div className="container">
           <div className="row g-5">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-              <h1 className="display-6 mb-5">
+              <h2 className="display-6 mb-5">
                 लोगों द्वारा हमें चुनने के कुछ कारण!
-              </h1>
+              </h2>
               <p className="mb-4">
                 अद्वितीय विशेषज्ञता, वैयक्तिकृत सेवा और अपने मन की शांति के
                 प्रति प्रतिबद्धता के लिए एस एंड वी बीमा चुनें। जानकार पेशेवरों
@@ -26,7 +26,7 @@ const Features = () => {
                         src="img/icon/icon-06-primary.png"
                         alt="Insurance Easy Process Logo"
                       />
-                      <h3 className="mb-0">Easy Process</h3>
+                      <h4 className="mb-0">Easy Process</h4>
                     </div>
                   </div>
                 </div>
@@ -38,7 +38,7 @@ const Features = () => {
                         src="img/icon/icon-03-primary.png"
                         alt="Insurance Fast Delivery Logo"
                       />
-                      <h3 className="mb-0">Fast Delivery</h3>
+                      <h4 className="mb-0">Fast Delivery</h4>
                     </div>
                   </div>
                 </div>
@@ -50,7 +50,7 @@ const Features = () => {
                         src="img/icon/icon-04-primary.png"
                         alt="Insurance Policy Controlling Logo"
                       />
-                      <h3 className="mb-0">Policy Controlling</h3>
+                      <h4 className="mb-0">Policy Controlling</h4>
                     </div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ const Features = () => {
                         src="img/icon/icon-07-primary.png"
                         alt="Insurance Money Saving Logo"
                       />
-                      <h3 className="mb-0">Money Saving</h3>
+                      <h4 className="mb-0">Money Saving</h4>
                     </div>
                   </div>
                 </div>

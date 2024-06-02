@@ -24,9 +24,9 @@ const About = () => {
                   style={{ width: "200px", height: "200px" }}
                 >
                   <div className="d-flex flex-column justify-content-center text-center bg-primary rounded h-100 p-3">
-                    <h1 className="text-white mb-0">13+</h1>
-                    <h2 className="text-white">Years</h2>
-                    <h5 className="text-white mb-0">Experience</h5>
+                    <h5 className="text-white mb-0">13+</h5>
+                    <h5 className="text-white">Years</h5>
+                    <h6 className="text-white mb-0">Experience</h6>
                   </div>
                 </div>
               </div>
