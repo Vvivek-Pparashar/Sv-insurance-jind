@@ -45,14 +45,14 @@ const NavBar = ({ page }) => {
       {/* <!-- Navbar Start --> */}
       <nav className="navbar navbar-expand-lg bg-white navbar-light px-4 px-lg-5 shadow-sm">
         <Link to="/" className="navbar-brand d-flex align-items-center">
-          <h1 className="m-0 text-primary">
+          <h2 className="m-0 text-primary">
             <img
               className="img-fluid me-3"
               src="img/icon/icon-02-primary.png"
               alt="S&V Insrance Jind Logo"
             />
             S&V
-          </h1>
+          </h2>
         </Link>
         <button
           title="toggle"
