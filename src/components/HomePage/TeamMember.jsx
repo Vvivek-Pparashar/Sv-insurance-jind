@@ -8,9 +8,9 @@ const TeamMember = () => {
       <div className="container-xxl py-5">
         <div className="container">
           <div className="text-center mx-auto" style={{ maxWidth: "500px" }}>
-            <h1 className="display-6 mb-5">
+            <h2 className="display-6 mb-5">
               Meet Our Professional Team Members
-            </h1>
+            </h2>
           </div>
           <div className="row g-4 d-flex justify-content-center">
             <div

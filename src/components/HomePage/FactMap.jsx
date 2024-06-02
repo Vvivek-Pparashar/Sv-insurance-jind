@@ -19,31 +19,31 @@ const FactMap = () => {
                   <div className="row g-4 d-flex">
                     <div className="col-sm-6">
                       <div className="d-flex align-items-center">
-                        <h1 className="display-5" data-toggle="counter-up">
+                        <h5 className="display-5" data-toggle="counter-up">
                           13
-                        </h1>
+                        </h5>
                         <h2>+yrs</h2>
                       </div>
                       <p className="fs-5 text-primary">Experience</p>
                     </div>
                     <div className="col-sm-6">
-                      <h1 className="display-5" data-toggle="counter-up">
+                      <h5 className="display-5" data-toggle="counter-up">
                         3
-                      </h1>
+                      </h5>
                       <p className="fs-5 text-primary">Awards Achieved</p>
                     </div>
                     <div className="col-sm-6">
-                      <h1 className="display-5" data-toggle="counter-up">
+                      <h5 className="display-5" data-toggle="counter-up">
                         4
-                      </h1>
+                      </h5>
                       <p className="fs-5 text-primary">Team Members</p>
                     </div>
                     <div id="4" className="col-sm-6">
                       <div className="d-flex align-items-center">
-                        <h1 className="display-5" data-toggle="counter-up">
+                        <h5 className="display-5" data-toggle="counter-up">
                           1200
-                        </h1>
-                        <h2>+</h2>
+                        </h5>
+                        <h5>+</h5>
                       </div>
                       <p className="fs-5 text-primary">Happy Clients</p>
                     </div>

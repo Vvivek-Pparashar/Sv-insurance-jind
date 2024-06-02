@@ -26,7 +26,7 @@ const Features = () => {
                         src="img/icon/icon-06-primary.png"
                         alt="Insurance Easy Process Logo"
                       />
-                      <h5 className="mb-0">Easy Process</h5>
+                      <h3 className="mb-0">Easy Process</h3>
                     </div>
                   </div>
                 </div>
@@ -38,7 +38,7 @@ const Features = () => {
                         src="img/icon/icon-03-primary.png"
                         alt="Insurance Fast Delivery Logo"
                       />
-                      <h5 className="mb-0">Fast Delivery</h5>
+                      <h3 className="mb-0">Fast Delivery</h3>
                     </div>
                   </div>
                 </div>
@@ -50,7 +50,7 @@ const Features = () => {
                         src="img/icon/icon-04-primary.png"
                         alt="Insurance Policy Controlling Logo"
                       />
-                      <h5 className="mb-0">Policy Controlling</h5>
+                      <h3 className="mb-0">Policy Controlling</h3>
                     </div>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ const Features = () => {
                         src="img/icon/icon-07-primary.png"
                         alt="Insurance Money Saving Logo"
                       />
-                      <h5 className="mb-0">Money Saving</h5>
+                      <h3 className="mb-0">Money Saving</h3>
                     </div>
                   </div>
                 </div>

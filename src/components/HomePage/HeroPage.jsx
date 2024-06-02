@@ -61,10 +61,11 @@ const HeroPage = () => {
                       <div className="col-12 col-lg-6">
                         <h1 className="display-3 text-dark mb-4 animated slideInDown">
                           Expert Insurance Services for Life, Health, and
-                          Vehicles
+                          Vehicle.
                         </h1>
                         <p className="fs-5 text-body mb-5">
-                        Protect your life, health, and vehicles with expert insurance services.
+                          Protect your life, health, and vehicle with expert
+                          insurance services. 
                         </p>
                         <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started

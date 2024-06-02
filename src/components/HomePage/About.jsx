@@ -34,7 +34,7 @@ const About = () => {
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="h-100">
                 <h2 className="display-6 mb-3">
-                  We spread happiness with our service.
+                  We spread happiness with our services.
                 </h2>
                 <p className="fs-5 text-primary mb-4">
                   S&V व्यक्तियों और व्यवसायों को वित्तीय घाटे के जोखिम से बचाने
