@@ -49,7 +49,7 @@ const NavBar = ({ page }) => {
             <img
               className="img-fluid me-3"
               src="img/icon/icon-02-primary.png"
-              alt="Sv Insrance Jind Logo"
+              alt="S&V Insrance Jind Logo"
             />
             S&V
           </h1>

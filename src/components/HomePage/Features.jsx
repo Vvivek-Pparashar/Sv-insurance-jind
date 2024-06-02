@@ -76,7 +76,7 @@ const Features = () => {
                 <img
                   className="position-absolute w-100 h-100"
                   src="img/a1.jpg"
-                  alt="Sv Insurance Manager Image"
+                  alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}
                 />
               </div>

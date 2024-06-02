@@ -16,7 +16,7 @@ const About = () => {
                 <img
                   className="position-absolute w-100 h-100"
                   src="img/about.jpg"
-                  alt="Sv Insurance Manager Image"
+                  alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}
                 />
                 <div
@@ -72,7 +72,7 @@ const About = () => {
                     <img
                       className="flex-shrink-0 rounded-circle me-3"
                       src="img/profile.jpg"
-                      alt="Sv Insurance Manager Image"
+                      alt="S&V Insurance Manager Image"
                       
                     />
                     <Link to="tel: 7404609190" className="text-white mb-0">
