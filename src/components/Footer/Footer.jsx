@@ -25,11 +25,19 @@ const Footer = () => {
                 <Link className="btn btn-square me-1" to="">
                   <i className="fab fa-twitter"></i>
                 </Link>
-                <Link className="btn btn-square me-1" to="">
+                <Link
+                  className="btn btn-square me-1"
+                  to="https://www.facebook.com/sv.insurance.jind?mibextid=JRoKGi"
+                  target="__blank"
+                >
                   <i className="fab fa-facebook-f"></i>
                 </Link>
-                <Link className="btn btn-square me-1" to="">
-                  <i className="fab fa-youtube"></i>
+                <Link
+                  className="btn btn-square me-1"
+                  to="https://www.instagram.com/sv_insurance_jind?igsh=cDYxcHowdGMwaGhu"
+                  target="__blank"
+                >
+                  <i className="fab fa-instagram"></i>
                 </Link>
                 <Link className="btn btn-square me-0" to="">
                   <i className="fab fa-linkedin-in"></i>
@@ -81,11 +89,16 @@ const Footer = () => {
                 </p>
                 <p>
                   <i className="fa fa-phone-alt me-3"></i>
-                  <a href="tel: 7404609190" className="text-white-50">+91 7404609190</a>
+                  <a href="tel: 7404609190" className="text-white-50">
+                    +91 7404609190
+                  </a>
                 </p>
                 <p>
                   <i className="fa fa-envelope me-3"></i>
-                  <a href="mailto: svwashingstationjind@gmail.com" className="text-white-50">
+                  <a
+                    href="mailto: svwashingstationjind@gmail.com"
+                    className="text-white-50"
+                  >
                     svwashingstationjind@gmail.com
                   </a>
                 </p>
