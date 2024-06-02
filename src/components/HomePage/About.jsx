@@ -33,9 +33,9 @@ const About = () => {
             </div>
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="h-100">
-                <h1 className="display-6 mb-3">
+                <h2 className="display-6 mb-3">
                   We spread happiness with our service.
-                </h1>
+                </h2>
                 <p className="fs-5 text-primary mb-4">
                   S&V व्यक्तियों और व्यवसायों को वित्तीय घाटे के जोखिम से बचाने
                   के लिए बीमा पॉलिसियों की एक श्रृंखला प्रदान करता है।
@@ -49,7 +49,7 @@ const About = () => {
                         alt="Flexible Insurance Plans"
                         loading="lazy"
                       />
-                      <h5 className="mb-0">Flexible Insurance Plans</h5>
+                      <h4 className="mb-0">Flexible Insurance Plans</h4>
                     </div>
                   </div>
                   <div className="col-sm-6">
@@ -59,7 +59,7 @@ const About = () => {
                         src="img/icon/icon-03-primary.png"
                         alt="Authentic Poilcy Agencies"
                       />
-                      <h5 className="mb-0">Authentic Poilcy Agencies</h5>
+                      <h4 className="mb-0">Authentic Poilcy Agencies</h4>
                     </div>
                   </div>
                 </div>

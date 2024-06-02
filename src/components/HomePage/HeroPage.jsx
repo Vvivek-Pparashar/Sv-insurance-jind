@@ -21,7 +21,7 @@ const HeroPage = () => {
             <OwlCarousel
               nav
               items={1}
-              autoplay = {true}
+              autoplay={true}
               smartSpeed={1000}
               loop
               lazyLoad={true}
@@ -39,11 +39,10 @@ const HeroPage = () => {
                     <div className="row">
                       <div className="col-12 col-lg-6">
                         <h1 className="display-3 text-dark mb-4 animated slideInDown">
-                          सर्वोत्तम बीमा यहीं से शुरू होता है
+                          Protect What Matters Most with S&V Insurance
                         </h1>
                         <p className="fs-5 text-body mb-5">
-                          आपका वाहन और ऑनलाइन सेवा समाधान, लाना प्रामाणिकता के
-                          साथ उत्कृष्टता.
+                          Safeguarding futures, building wealth for all.
                         </p>
                         <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started
@@ -61,10 +60,11 @@ const HeroPage = () => {
                     <div className="row">
                       <div className="col-12 col-lg-6">
                         <h1 className="display-3 text-dark mb-4 animated slideInDown">
-                          Insurance Creates Wealth For Everyone
+                          Expert Insurance Services for Life, Health, and
+                          Vehicles
                         </h1>
                         <p className="fs-5 text-body mb-5">
-                          Safeguarding futures, building wealth for all.
+                        Protect your life, health, and vehicles with expert insurance services.
                         </p>
                         <a href="#2" className="btn btn-primary py-3 px-5">
                           Get Started
