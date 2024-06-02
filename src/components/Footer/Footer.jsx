@@ -12,14 +12,14 @@ const Footer = () => {
         <div className="container py-5">
           <div className="row g-5">
             <div className="col-lg-3 col-md-6">
-              <h1 className="text-white mb-4">
+              <h2 className="text-white mb-4">
                 <img
                   className="img-fluid me-3"
                   src="img/icon/icon-02-light.png"
                   alt="S&V Insurance Jind Logo"
                 />
                 S&V
-              </h1>
+              </h2>
               <p>"S&V Insurance: Protecting Your Tomorrow, Today."</p>
               <div className="d-flex pt-2">
                 <Link className="btn btn-square me-1" to="">

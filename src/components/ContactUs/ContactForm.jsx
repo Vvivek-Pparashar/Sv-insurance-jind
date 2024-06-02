@@ -8,9 +8,9 @@ const ContactForm = () => {
         <div className="container">
           <div className="row g-5">
             <div className="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-              <h1 className="display-6 mb-5">
+              <h2 className="display-6 mb-5">
                 If You Have Any Query, Please Contact Us
-              </h1>
+              </h2>
               <p className="mb-4">
                 "Reach out today and let S&V Insurance safeguard your future.
                 Contact us now."
