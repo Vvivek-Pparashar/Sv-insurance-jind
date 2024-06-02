@@ -73,6 +73,7 @@ const About = () => {
                       className="flex-shrink-0 rounded-circle me-3"
                       src="img/profile.jpg"
                       alt="Sv Insurance Manager Image"
+                      
                     />
                     <Link to="tel: 7404609190" className="text-white mb-0">
                       Call Us: +91 7404609190

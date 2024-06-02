@@ -76,7 +76,7 @@ const NavBar = ({ page }) => {
               Home
             </Link>
             <Link
-              to="/AboutUs"
+              to="/about-us"
               className={`nav-item nav-link ${
                 page == "AboutUs" ? "active" : ""
               }`}
@@ -84,7 +84,7 @@ const NavBar = ({ page }) => {
               About Us
             </Link>
             <Link
-              to="/OurServices"
+              to="/our-services"
               className={`nav-item nav-link ${
                 page == "OurServices" ? "active" : ""
               }`}
@@ -93,7 +93,7 @@ const NavBar = ({ page }) => {
             </Link>
 
             <Link
-              to="/ContactUs"
+              to="/contact-us"
               className={`nav-item nav-link ${
                 page == "ContactUs" ? "active" : ""
               }`}
