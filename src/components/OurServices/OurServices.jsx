@@ -15,7 +15,7 @@ const OurServices = () => {
         data-wow-delay="0.1s"
       >
         <div className="container py-5">
-          <h1 className="display-4 animated slideInDown mb-4">Services</h1>
+          <h4 className="display-4 animated slideInDown mb-4">Our Services</h4>
           <nav aria-label="breadcrumb animated slideInDown">
             <ol className="breadcrumb mb-0">
               <li className="breadcrumb-item">
@@ -23,7 +23,7 @@ const OurServices = () => {
               </li>
 
               <li className="breadcrumb-item active" aria-current="page">
-                Services
+                Our Services
               </li>
             </ol>
           </nav>

@@ -15,7 +15,7 @@ const ContactUs = () => {
         data-wow-delay="0.1s"
       >
         <div className="container py-5">
-          <h1 className="display-4 animated slideInDown mb-4">Contact Us</h1>
+          <h4 className="display-4 animated slideInDown mb-4">Contact Us</h4>
           <nav aria-label="breadcrumb animated slideInDown">
             <ol className="breadcrumb mb-0">
               <li className="breadcrumb-item">

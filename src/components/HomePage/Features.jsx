@@ -24,7 +24,7 @@ const Features = () => {
                       <img
                         className="align-self-center mb-3"
                         src="img/icon/icon-06-primary.png"
-                        alt="Insurance Easy Process Logo"
+                        alt="Insurance Easy Process icon"
                       />
                       <h4 className="mb-0">Easy Process</h4>
                     </div>
@@ -36,7 +36,7 @@ const Features = () => {
                       <img
                         className="align-self-center mb-3"
                         src="img/icon/icon-03-primary.png"
-                        alt="Insurance Fast Delivery Logo"
+                        alt="Insurance Fast Delivery icon"
                       />
                       <h4 className="mb-0">Fast Delivery</h4>
                     </div>
@@ -48,7 +48,7 @@ const Features = () => {
                       <img
                         className="align-self-center mb-3"
                         src="img/icon/icon-04-primary.png"
-                        alt="Insurance Policy Controlling Logo"
+                        alt="Insurance Policy Controlling icon"
                       />
                       <h4 className="mb-0">Policy Controlling</h4>
                     </div>
@@ -60,7 +60,7 @@ const Features = () => {
                       <img
                         className="align-self-center mb-3"
                         src="img/icon/icon-07-primary.png"
-                        alt="Insurance Money Saving Logo"
+                        alt="Insurance Money Saving icon"
                       />
                       <h4 className="mb-0">Money Saving</h4>
                     </div>

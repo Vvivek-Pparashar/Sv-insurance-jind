@@ -23,7 +23,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-10-light.png"
-                      alt="Vehicle Insurance Logo"
+                      alt="Vehicle Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Vehicle Insurance</h3>
@@ -47,7 +47,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-01-light.png"
-                      alt="Health Insurance Logo"
+                      alt="Health Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Health Insurance</h3>
@@ -71,7 +71,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-05-light.png"
-                      alt="Home Insurance Logo"
+                      alt="Home Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Home Insurance</h3>
@@ -95,7 +95,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-08-light.png"
-                      alt="Life Insurance Logo"
+                      alt="Life Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Life Insurance</h3>
@@ -119,7 +119,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-07-light.png"
-                      alt="Business Insurance Logo"
+                      alt="Business Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Business Insurance</h3>
@@ -144,7 +144,7 @@ const Services = () => {
                     <img
                       className="img-fluid"
                       src="img/icon/icon-06-light.png"
-                      alt="Property Insurance Logo"
+                      alt="Property Insurance icon"
                     />
                   </div>
                   <h3 className="mb-0">Property Insurance</h3>

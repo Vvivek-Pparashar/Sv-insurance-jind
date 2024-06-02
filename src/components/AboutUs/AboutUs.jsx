@@ -14,12 +14,12 @@ const AboutUs = () => {
       {/* <!-- Page Header Start --> */}
     <div className="container-fluid page-header-1 py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div className="container py-5">
-            <h1 className="display-4 animated slideInDown mb-4">About Us</h1>
+            <h4 className="display-4 animated slideInDown mb-4">About Us</h4>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol className="breadcrumb mb-0">
                     <li className="breadcrumb-item"><Link to="/">Home</Link></li>
                     
-                    <li className="breadcrumb-item active" aria-current="page">About</li>
+                    <li className="breadcrumb-item active" aria-current="page">About Us</li>
                 </ol>
             </nav>
         </div>
