@@ -94,14 +94,14 @@ const NavBar = ({ page }) => {
               Our Services
             </Link>
 
-            <Link
-              to="/contact-us"
+            <a
+              href="/contact-us"
               className={`nav-item nav-link ${
                 page == "ContactUs" ? "active" : ""
               }`}
             >
               Contact Us
-            </Link>
+            </a>
           </div>
         </div>
         <Link
