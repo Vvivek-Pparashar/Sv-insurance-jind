@@ -1,4 +1,5 @@
 import React from "react";
+import LazyLoad from "react-lazy-load";
 import { Link } from "react-router-dom";
 
 const About = () => {
@@ -13,13 +14,15 @@ const About = () => {
                 className="position-relative overflow-hidden rounded ps-5 pt-5 h-100"
                 style={{ minHeight: "400px" }}
               >
-                <img
-                  className="position-absolute w-100 h-100"
-                  src="img/about.jpg"
-                  alt="S&V Insurance Manager Image"
-                  style={{ objectFit: "cover" }}
-                  loading="lazy"
-                />
+                <LazyLoad>
+                  <img
+                    className="position-absolute w-100 h-100"
+                    src="img/about.jpg"
+                    alt="S&V Insurance Manager Image"
+                    style={{ objectFit: "cover" }}
+                    loading="lazy"
+                  />
+                </LazyLoad>
                 <div
                   className="position-absolute top-0 start-0 bg-white rounded pe-3 pb-3"
                   style={{ width: "200px", height: "200px" }}
@@ -44,24 +47,27 @@ const About = () => {
                 <div className="row g-4 mb-4">
                   <div className="col-sm-6">
                     <div className="d-flex align-items-center">
-                      <img
-                        className="flex-shrink-0 me-3"
-                        src="img/icon/icon-04-primary.png"
-                        alt="Flexible Insurance Plans"
-                        loading="lazy"
-
-                      />
+                      <LazyLoad>
+                        <img
+                          className="flex-shrink-0 me-3"
+                          src="img/icon/icon-04-primary.png"
+                          alt="Flexible Insurance Plans"
+                          loading="lazy"
+                        />
+                      </LazyLoad>
                       <h4 className="mb-0">Flexible Insurance Plans</h4>
                     </div>
                   </div>
                   <div className="col-sm-6">
                     <div className="d-flex align-items-center">
-                      <img
-                        className="flex-shrink-0 me-3"
-                        src="img/icon/icon-03-primary.png"
-                        alt="Authentic Poilcy Agencies"
-                        loading="lazy"
-                      />
+                      <LazyLoad>
+                        <img
+                          className="flex-shrink-0 me-3"
+                          src="img/icon/icon-03-primary.png"
+                          alt="Authentic Poilcy Agencies"
+                          loading="lazy"
+                        />
+                      </LazyLoad>
                       <h4 className="mb-0">Authentic Poilcy Agencies</h4>
                     </div>
                   </div>
@@ -77,7 +83,6 @@ const About = () => {
                       src="img/profile.jpg"
                       alt="S&V Insurance Manager Image"
                       loading="lazy"
-                      
                     />
                     <Link to="tel: 7404609190" className="text-white mb-0">
                       Call Us: +91 7404609190
