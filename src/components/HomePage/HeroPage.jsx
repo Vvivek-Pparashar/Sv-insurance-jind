@@ -33,7 +33,7 @@ const HeroPage = () => {
               classNameName="owl-carousel testimonial-carousel bg-white p-5"
             >
               <div className="carousel-item active">
-                <img className="w-100" src="img/c3.jpg" alt="Life Insurance" loading="lazy"/>
+                <img className="w-100" src="img/c3.jpg" alt="Life Insurance"/>
                 <div className="carousel-caption">
                   <div className="container">
                     <div className="row">
@@ -55,7 +55,7 @@ const HeroPage = () => {
                 </div>
               </div>
               <div className="carousel-item active">
-                <img className="w-100" src="img/c1.jpg" alt="Car Insurance" loading="lazy"/>
+                <img className="w-100" src="img/c1.jpg" alt="Car Insurance"/>
                 <div className="carousel-caption">
                   <div className="container">
                     <div className="row">
