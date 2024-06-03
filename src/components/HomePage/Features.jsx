@@ -25,6 +25,7 @@ const Features = () => {
                         className="align-self-center mb-3"
                         src="img/icon/icon-06-primary.png"
                         alt="Insurance Easy Process icon"
+                        loading="lazy"
                       />
                       <h4 className="mb-0">Easy Process</h4>
                     </div>
@@ -37,6 +38,7 @@ const Features = () => {
                         className="align-self-center mb-3"
                         src="img/icon/icon-03-primary.png"
                         alt="Insurance Fast Delivery icon"
+                        loading="lazy"
                       />
                       <h4 className="mb-0">Fast Delivery</h4>
                     </div>
@@ -49,6 +51,7 @@ const Features = () => {
                         className="align-self-center mb-3"
                         src="img/icon/icon-04-primary.png"
                         alt="Insurance Policy Controlling icon"
+                        loading="lazy"
                       />
                       <h4 className="mb-0">Policy Controlling</h4>
                     </div>
@@ -61,6 +64,7 @@ const Features = () => {
                         className="align-self-center mb-3"
                         src="img/icon/icon-07-primary.png"
                         alt="Insurance Money Saving icon"
+                        loading="lazy"
                       />
                       <h4 className="mb-0">Money Saving</h4>
                     </div>
@@ -78,6 +82,7 @@ const Features = () => {
                   src="img/a1.jpg"
                   alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}
+                  loading="lazy"
                 />
               </div>
             </div>

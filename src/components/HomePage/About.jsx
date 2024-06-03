@@ -18,6 +18,7 @@ const About = () => {
                   src="img/about.jpg"
                   alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}
+                  loading="lazy"
                 />
                 <div
                   className="position-absolute top-0 start-0 bg-white rounded pe-3 pb-3"
@@ -48,6 +49,7 @@ const About = () => {
                         src="img/icon/icon-04-primary.png"
                         alt="Flexible Insurance Plans"
                         loading="lazy"
+
                       />
                       <h4 className="mb-0">Flexible Insurance Plans</h4>
                     </div>
@@ -58,6 +60,7 @@ const About = () => {
                         className="flex-shrink-0 me-3"
                         src="img/icon/icon-03-primary.png"
                         alt="Authentic Poilcy Agencies"
+                        loading="lazy"
                       />
                       <h4 className="mb-0">Authentic Poilcy Agencies</h4>
                     </div>
@@ -73,6 +76,7 @@ const About = () => {
                       className="flex-shrink-0 rounded-circle me-3"
                       src="img/profile.jpg"
                       alt="S&V Insurance Manager Image"
+                      loading="lazy"
                       
                     />
                     <Link to="tel: 7404609190" className="text-white mb-0">

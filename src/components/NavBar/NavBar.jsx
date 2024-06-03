@@ -50,6 +50,7 @@ const NavBar = ({ page }) => {
               className="img-fluid me-3"
               src="img/icon/icon-02-primary.png"
               alt="S&V Insrance Jind Logo"
+              loading="lazy"
             />
             S&V
           </h2>

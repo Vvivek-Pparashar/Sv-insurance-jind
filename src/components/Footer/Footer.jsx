@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import LazyLoad from "react-lazy-load";
 
 const Footer = () => {
   return (
@@ -13,11 +14,14 @@ const Footer = () => {
           <div className="row g-5">
             <div className="col-lg-3 col-md-6">
               <h2 className="text-white mb-4">
-                <img
-                  className="img-fluid me-3"
-                  src="img/icon/icon-02-light.png"
-                  alt="S&V Insurance Jind Logo"
-                />
+                {/* <LazyLoad> */}
+                  <img
+                    className="img-fluid me-3"
+                    src="img/icon/icon-02-light.png"
+                    alt="S&V Insurance Jind Logo"
+                    loading="lazy"
+                  />
+                {/* </LazyLoad> */}
                 S&V
               </h2>
               <p>"S&V Insurance: Protecting Your Tomorrow, Today."</p>

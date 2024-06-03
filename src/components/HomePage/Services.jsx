@@ -24,6 +24,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-10-light.png"
                       alt="Vehicle Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Vehicle Insurance</h3>
@@ -48,6 +49,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-01-light.png"
                       alt="Health Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Health Insurance</h3>
@@ -72,6 +74,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-05-light.png"
                       alt="Home Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Home Insurance</h3>
@@ -96,6 +99,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-08-light.png"
                       alt="Life Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Life Insurance</h3>
@@ -120,6 +124,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-07-light.png"
                       alt="Business Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Business Insurance</h3>
@@ -145,6 +150,7 @@ const Services = () => {
                       className="img-fluid"
                       src="img/icon/icon-06-light.png"
                       alt="Property Insurance icon"
+                      loading="lazy"
                     />
                   </div>
                   <h3 className="mb-0">Property Insurance</h3>

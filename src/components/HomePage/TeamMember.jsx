@@ -18,7 +18,12 @@ const TeamMember = () => {
               data-wow-delay="0.1s"
             >
               <div className="team-item rounded">
-                <img className="img-fluid" src="img/team-1.jpg" alt="Insurance Branch Manager Image" />
+                <img
+                  className="img-fluid"
+                  src="img/team-1.jpg"
+                  alt="Insurance Branch Manager Image"
+                  loading="lazy"
+                />
                 <div className="text-center p-4">
                   <h5>Laxmi Kant</h5>
                   <span>Branch Manager</span>
@@ -43,7 +48,12 @@ const TeamMember = () => {
               data-wow-delay="0.7s"
             >
               <div className="team-item rounded">
-                <img className="img-fluid" src="img/team-4.jpg" alt="Delhi Based Insurancer Image" />
+                <img
+                  className="img-fluid"
+                  src="img/team-4.jpg"
+                  alt="Delhi Based Insurancer Image"
+                  loading="lazy"
+                />
                 <div className="text-center p-4">
                   <h5>Vinod Sharma</h5>
                   <span>Delhi based</span>

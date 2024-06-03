@@ -19,16 +19,19 @@ const Testimonial = () => {
                   className="img-fluid animated pulse infinite"
                   src="img/p1.jpg"
                   alt="Vechile Insurance Testimonial"
+                  loading="lazy"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p2.jpg"
                   alt="Health Insurance Testimonial"
+                  loading="lazy"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p3.jpg"
                   alt="Life Insurance Testimonial"
+                  loading="lazy"
                 />
               </div>
             </div>
@@ -52,6 +55,7 @@ const Testimonial = () => {
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p5.jpg"
                     alt="Car Insurance Testimonial"
+                    loading="lazy"
                   />
                   <p className="fs-5">
                     "मैं वर्षों से S&V इंश्योरेंस का एक वफादार ग्राहक रहा हूं,
@@ -65,6 +69,7 @@ const Testimonial = () => {
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p2.jpg"
                     alt="Business Insurance Testimonial"
+                    loading="lazy"
                   />
                   <p className="fs-5">
                     "Choosing S&V Insurance was one of the best decisions I've
@@ -78,6 +83,7 @@ const Testimonial = () => {
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p1.jpg"
                     alt="Insurance Testimonial"
+                    loading="lazy"
                   />
                   <p className="fs-5">
                     "S&V इंश्योरेंस ने अपने व्यक्तिगत दृष्टिकोण के साथ मेरी
@@ -91,6 +97,7 @@ const Testimonial = () => {
                     className="img-fluid rounded mx-auto mb-4"
                     src="img/p3.jpg"
                     alt="Insurance Testimonial"
+                    loading="lazy"
                   />
                   <p className="fs-5">
                     "I've been a loyal customer of S&V Insurance for years, and
@@ -107,16 +114,19 @@ const Testimonial = () => {
                   className="img-fluid animated pulse infinite"
                   src="img/p6.jpg"
                   alt="Property Insurance Testimonial"
+                  loading="lazy"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p5.jpg"
                   alt="Car Insurance Testimonial"
+                  loading="lazy"
                 />
                 <img
                   className="img-fluid animated pulse infinite"
                   src="img/p4.jpg"
                   alt="MotorCycle Insurance Testimonial"
+                  loading="lazy"
                 />
               </div>
             </div>
