@@ -25,7 +25,7 @@ const router = createBrowserRouter([
   {
     path: "/about-us",
     element: (
-      <Suspense>
+      <Suspense fallback={<h2>Loading....</h2>}>
         <AboutUs />
       </Suspense>
     ),
