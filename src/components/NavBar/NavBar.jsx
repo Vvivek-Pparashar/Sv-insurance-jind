@@ -58,6 +58,7 @@ const NavBar = ({ page }) => {
         <button
           title="toggle"
           type="button"
+          aria-label="click"
           className="navbar-toggler"
           data-bs-toggle="collapse"
           data-bs-target="#navbarCollapse"

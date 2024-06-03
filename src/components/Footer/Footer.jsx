@@ -43,8 +43,17 @@ const Footer = () => {
                 >
                   <i className="fab fa-instagram"></i>
                 </Link>
-                <Link className="btn btn-square me-0" to="">
+                <Link
+                  className="btn btn-square me-0"
+                  to="https://www.linkedin.com/in/vivek-parashar-developer/"
+                >
                   <i className="fab fa-linkedin-in"></i>
+                </Link>
+                <Link
+                  className="btn btn-square me-0"
+                  to="https://youtube.com/@vivekparashar...8716"
+                >
+                  <i className="fab fa-youtube"></i>
                 </Link>
               </div>
             </div>

@@ -63,7 +63,7 @@ const ContactForm = () => {
                     </div>
                   </div>
                   <div className="col-12">
-                    <button className="btn btn-primary py-3 px-5" type="submit">
+                    <button className="btn btn-primary py-3 px-5" type="submit" aria-label="submit">
                       Send Message
                     </button>
                   </div>
