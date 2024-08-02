@@ -15,7 +15,7 @@ const About = () => {
               >
                 <img
                   className="position-absolute w-100 h-100"
-                  src="img/about.jpg"
+                  src="img/aboutt.jpg"
                   alt="S&V Insurance Manager Image"
                   style={{ objectFit: "cover" }}
                 />
@@ -38,8 +38,10 @@ const About = () => {
                   We spread happiness with our services.
                 </h2>
                 <p className="fs-5 text-primary mb-4">
-                  S&V व्यक्तियों और व्यवसायों को वित्तीय घाटे के जोखिम से बचाने
-                  के लिए बीमा पॉलिसियों की एक श्रृंखला प्रदान करता है।
+                  S&V offers a wide range of insurance policies to help protect
+                  people and businesses from losing money. These policies are
+                  designed to cover many different situations, so no matter what
+                  kind of protection you need, S&V has something for you.
                 </p>
                 <div className="row g-4 mb-4">
                   <div className="col-sm-6">
@@ -68,8 +70,10 @@ const About = () => {
                   </div>
                 </div>
                 <p className="mb-4">
-                  बीमा की जटिलताओं से निपटने और एक उज्जवल, अधिक सुरक्षित भविष्य
-                  सुनिश्चित करने में अपना भागीदार बनने के लिए हम पर भरोसा करें।
+                  Trust us to be your partner in navigating the complexities of
+                  insurance, ensuring a brighter and more secure future. We
+                  understand that insurance can be complicated, and we're here
+                  to help you every step of the way
                 </p>
                 <div className="border-top mt-4 pt-4">
                   <div className="d-flex align-items-center bg-primary rounded p-3">
